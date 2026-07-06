@@ -252,7 +252,8 @@ The project generates:
 
 # Author
 
-**Manoj Billur Nagendra Prasad**
+**Manoj Billur Nagendra Prasad**  
+
 **Steffi Stephen**
 
 University of Paderborn
