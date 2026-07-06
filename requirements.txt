@@ -1,0 +1,23 @@
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+
+# RDF processing
+rdflib
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Explainable AI
+shap
+
+# Optional (used if available)
+xgboost
+
+# Jupyter
+notebook
+ipykernel
