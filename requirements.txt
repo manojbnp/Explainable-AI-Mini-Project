@@ -4,6 +4,7 @@ numpy
 
 # Visualization
 matplotlib
+seaborn
 
 # RDF processing
 rdflib
@@ -21,3 +22,4 @@ xgboost
 # Jupyter
 notebook
 ipykernel
+ipython
